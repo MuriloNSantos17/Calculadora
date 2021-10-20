@@ -44,7 +44,7 @@ table{
     height: 100%;
 }
 
-.btnNum{
+.btnNum,.btnEqual, .btnClear{
     width: 100%;
     height: 100%;
     font-size: 2em;
@@ -55,7 +55,7 @@ table{
     cursor: pointer;
 }
 
-.btnNum:hover{
+.btnNum:hover, .btnEqual:hover,.btnClear:hover{
     background-color: #685896; 
 }
 
